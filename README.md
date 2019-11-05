@@ -4,7 +4,7 @@ quickly grab ADS bibtex entries for your latex bibtext bibliography from the ADS
 # usage
 
 ```python
-getADSbibentry.py <>
+getADSbibentry.py <adstags>
 ```
 
 # example
