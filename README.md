@@ -1,5 +1,5 @@
 # getADSbibentry
-quickly grab ADS bibtex entries for your latex bibtext bibliography from the ADS article tag
+quickly grab ADS bibtex entries for your latex bibtex bibliography from the [NASA/ADS](https://ui.adsabs.harvard.edu/) article tag
 
 # usage
 
